@@ -1,0 +1,2817 @@
+{
+  "coc-python|/Users/remia": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "/Users/remia/.pyenv/versions/3.8.0/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.0/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.0",
+        "fileHash": "4cf22583142d20a23e6c35e8272017820ab000a5f0f2e3cf27f40efe334e9f300596bc13a0301698b47cd8d6bcf26d13f271cb3b53cd6207c62293d020ac892a"
+      },
+      "expiry": 1613097940005
+    },
+    "/Users/remia/.pyenv/versions/3.8.0/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.0/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.0",
+        "fileHash": "ac77ace759c438bb069bce6b10f4a2a63b5fdf1522eda94458e8097622911cf0e346259c6d0191cfddd97db9a7b76826297d9ca56c4186dbcfdf34ff6fc7801a"
+      },
+      "expiry": 1613097940004
+    },
+    "/Users/remia/.pyenv/versions/3.8.0/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.0",
+        "fileHash": "fa075b53d3becbbc729f75843983340a16ad1ba552048ea7f30a13371f5741b8cede0eecdb968b790a01181feae2a122a7ae9fb2784bf68518728575d9716c3c"
+      },
+      "expiry": 1613097940006
+    },
+    "/Users/remia/.pyenv/versions/3.6.5/bin/python3.6.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.6.5/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.5-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.6.5",
+        "fileHash": "b9ef41754fdfbfd18dac03c2f37772cb5bdab6d87ff0d6d5e99f2c822bb49a79d0ede95249a097f5bb791993346c08ed810bcafd96a804861b397b55b436317d"
+      },
+      "expiry": 1613097939941
+    },
+    "/Users/remia/.pyenv/versions/3.6.5/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.6.5/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.5-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.6.5",
+        "fileHash": "ef345d5fcefc4a1b5a28cf345115a14efc75ef6437d3878b90fcf58dfbe76f5c33372d383e3e3f7ecd045ed3234d682a40f9f0dc99656252169ac52c80c1876e"
+      },
+      "expiry": 1613097940007
+    },
+    "/Users/remia/.pyenv/versions/3.6.5/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.6.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.5-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.6.5",
+        "fileHash": "1b382fdfe7db6c3a66d68e72e1436786bfa552447ec95334809f4a1dd82b70521a7175e7998cedc49d214ee76f34b277d388bfb85b595b471d047e09b0677a9a"
+      },
+      "expiry": 1613097939991
+    },
+    "/Users/remia/.pyenv/versions/2.7.15/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/2.7.15/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "04d5199bac16efd4c95e400bc557025ade02a76e021dfa5fca4fbbc91e29f46c2608e2db9f26325bf1b8e036295e4bf467266b0e81c2a2823e35f68a20e9f2ad"
+      },
+      "expiry": 1613097939945
+    },
+    "/Users/remia/.pyenv/versions/2.7.15/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/2.7.15/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "a997cda8188233e7ec95f20851aef6715e11333f1cb7f8a8a5278039480049dbf57e655d06adf8db977cff3ef67840bb96225adf2147094b37164612fce43997"
+      },
+      "expiry": 1613097939948
+    },
+    "/Users/remia/.pyenv/versions/2.7.15/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/2.7.15/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "d62f17e692912782c1eb1aef1bb2d2ae18ab26f071dc55b6432b70409e70965c891feca531ffa3dbda52a6a9349346bf1f2697372f86a887a939860e2598de59"
+      },
+      "expiry": 1613097939951
+    },
+    "/Users/remia/.pyenv/shims/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "45e4464b8721f73f850016e363c8c87282625a69f9337b2beaed0e455b73a87895f8086214ae963587e1f69980f8aec7902d8e31e4433165b00a6fa03ec8b63d"
+      },
+      "expiry": 1613097940058
+    },
+    "/Users/remia/.pyenv/shims/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "3ac46c2cbee652804d833dd13184ed58f18c74b76fba7fba70d949d6fb6a84a35b716581ae4d4a7ea4ca79bd4b5654da21797e4d2bc286c741ec04707d182b3a"
+      },
+      "expiry": 1613097939959
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b93a8e6ce05f9d37326b5452c79018f7e795930fa24f215eefe6201d70225261c48ed01cd1c61e93dc851da6bcf0a588a103ddb32b3163085622b3983a7611c3"
+      },
+      "expiry": 1613097939957
+    },
+    "/Users/remia/.pyenv/shims/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/shims/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "eb0ff18acb4a48fcfe61dfd2d8fc232950b53216ef7d188f232cd32bbf1b4bf053e9bf4bbf4c0ad6e4ca95d9ba6dab0818be6dcccc091fbc8c1e4d3237b9531e"
+      },
+      "expiry": 1613097939975
+    },
+    "/Users/remia/.pyenv/shims/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/shims/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "03b1aeec56ff0c6cce2feb34cdcf2b15822cc5f82fcbb83a41ac8345f5f05e2a27081acc9f02ac1ffbb3b0a54fa151f7eb800ab9209105e21da37426fad1a8a5"
+      },
+      "expiry": 1613097939977
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "02550e8b7a361dae3d941a69dc92ffa7a8858f4ac881178863f3259ca7d64aaa1d6c1e7d4993d119c22cc50999e70f6e4401e480e16d950c29c792c9a5a469ca"
+      },
+      "expiry": 1613097939967
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "2a8a88143036b3559fb332ed3d0ae568bba964674e02459dc0fa1513c0b32e699f748de8062a721243dc7cad2461cb8be3955fded35dff0f84d2493a33e7ca61"
+      },
+      "expiry": 1613097939970
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "7c6021c360ea4763a569810bad319c9399715f91feb8eb7d54ef483a837b0d7457c0f89f860dd361e0e59a4ff3cdf187f4c67ae7336d9b5357964e00b5b7dbdc"
+      },
+      "expiry": 1613097940405
+    },
+    "/usr/local/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "86c06a5ce331e45ce3e332e47081d97a5d3ebab4c4fe1d38c40e924ad6bfc224a7b1511ecd961a699cc60f7189052b3f2828c3d95c8be099b73dd4092672d33d"
+      },
+      "expiry": 1613097939983
+    },
+    "/usr/local/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "c95e95ab8f803cd72be1c0b3a7f9f907596f4940c9935a71945bdd56d888678bac06791be7147465bb455d659385ad91a78aebe0114cb60c2dd8ca724ead5c3b"
+      },
+      "expiry": 1613097939986
+    },
+    "/Users/remia/.pyenv/versions/3.8.5/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.5/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "5c9a0fadfde5199301f19c69bd6d929295db2cb23987592fa16fe4f6d85dd6154e7ea44b2fe01a7dcf53cd2f91e1fdc42364adde3fef86099d6b796035ee6e22"
+      },
+      "expiry": 1613097939990
+    },
+    "/Users/remia/.pyenv/shims/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "9618bcc53e46e207568b38ddd005fd722a14309ef10329af2c5dfe72ced8b5b6e22f31ff97cf965877b736370257c80780d5359dd2932de059bc269ffa273be2"
+      },
+      "expiry": 1613097940051
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Users/remia/python/django_work/django_venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/python/django_work/django_venv",
+        "fileHash": "b4c87ac513684d4470e602df0553f831d2bbcee280d27adb2e0afc96d2c7ec2a2267129edbfc2d3f8fee92f66de3607b5c8700bf0ac99eb5eaa5f8ba1744930b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/python/django_work/django_venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/python/django_work/django_venv",
+        "fileHash": "c82bae84fb430133f414c104c20f31d25d4314c8eccf8511b748dc8ae3cc3510f97d534168fba14c306724231c11c71a0efca5422907378ba4756769f0528792",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "9618bcc53e46e207568b38ddd005fd722a14309ef10329af2c5dfe72ced8b5b6e22f31ff97cf965877b736370257c80780d5359dd2932de059bc269ffa273be2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/shims/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "03b1aeec56ff0c6cce2feb34cdcf2b15822cc5f82fcbb83a41ac8345f5f05e2a27081acc9f02ac1ffbb3b0a54fa151f7eb800ab9209105e21da37426fad1a8a5",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/shims/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "eb0ff18acb4a48fcfe61dfd2d8fc232950b53216ef7d188f232cd32bbf1b4bf053e9bf4bbf4c0ad6e4ca95d9ba6dab0818be6dcccc091fbc8c1e4d3237b9531e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "45e4464b8721f73f850016e363c8c87282625a69f9337b2beaed0e455b73a87895f8086214ae963587e1f69980f8aec7902d8e31e4433165b00a6fa03ec8b63d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "3ac46c2cbee652804d833dd13184ed58f18c74b76fba7fba70d949d6fb6a84a35b716581ae4d4a7ea4ca79bd4b5654da21797e4d2bc286c741ec04707d182b3a",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "c95e95ab8f803cd72be1c0b3a7f9f907596f4940c9935a71945bdd56d888678bac06791be7147465bb455d659385ad91a78aebe0114cb60c2dd8ca724ead5c3b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "86c06a5ce331e45ce3e332e47081d97a5d3ebab4c4fe1d38c40e924ad6bfc224a7b1511ecd961a699cc60f7189052b3f2828c3d95c8be099b73dd4092672d33d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "2a8a88143036b3559fb332ed3d0ae568bba964674e02459dc0fa1513c0b32e699f748de8062a721243dc7cad2461cb8be3955fded35dff0f84d2493a33e7ca61",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "02550e8b7a361dae3d941a69dc92ffa7a8858f4ac881178863f3259ca7d64aaa1d6c1e7d4993d119c22cc50999e70f6e4401e480e16d950c29c792c9a5a469ca",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b93a8e6ce05f9d37326b5452c79018f7e795930fa24f215eefe6201d70225261c48ed01cd1c61e93dc851da6bcf0a588a103ddb32b3163085622b3983a7611c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "7c6021c360ea4763a569810bad319c9399715f91feb8eb7d54ef483a837b0d7457c0f89f860dd361e0e59a4ff3cdf187f4c67ae7336d9b5357964e00b5b7dbdc",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "c95e95ab8f803cd72be1c0b3a7f9f907596f4940c9935a71945bdd56d888678bac06791be7147465bb455d659385ad91a78aebe0114cb60c2dd8ca724ead5c3b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "86c06a5ce331e45ce3e332e47081d97a5d3ebab4c4fe1d38c40e924ad6bfc224a7b1511ecd961a699cc60f7189052b3f2828c3d95c8be099b73dd4092672d33d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "2a8a88143036b3559fb332ed3d0ae568bba964674e02459dc0fa1513c0b32e699f748de8062a721243dc7cad2461cb8be3955fded35dff0f84d2493a33e7ca61",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "02550e8b7a361dae3d941a69dc92ffa7a8858f4ac881178863f3259ca7d64aaa1d6c1e7d4993d119c22cc50999e70f6e4401e480e16d950c29c792c9a5a469ca",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b93a8e6ce05f9d37326b5452c79018f7e795930fa24f215eefe6201d70225261c48ed01cd1c61e93dc851da6bcf0a588a103ddb32b3163085622b3983a7611c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "7c6021c360ea4763a569810bad319c9399715f91feb8eb7d54ef483a837b0d7457c0f89f860dd361e0e59a4ff3cdf187f4c67ae7336d9b5357964e00b5b7dbdc",
+        "type": "Unknown"
+      }
+    ],
+    "/Users/remia/.pyenv/versions/3.8.5/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "8a7d75205a6b63bcb27bfd213cf18e83a7f5ced314ee44e622d6c822c49749253f7e22fe0ef073ebc827f277f4cfaff4d5632d8e94b4dbb2eb3494045297157f"
+      },
+      "expiry": 1613097940008
+    },
+    "/Users/remia/.pyenv/versions/3.8.5/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.5/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "253b3dc7e81af12e13c8c050d7235def0b6437dcd51e4ed826052e9d3f9cd2e251af0314cac5ae51d3889ed1640e5a52ced648e82c7bb2f87f00d4be6909eb01"
+      },
+      "expiry": 1613097940010
+    },
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/2.7.15/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "d62f17e692912782c1eb1aef1bb2d2ae18ab26f071dc55b6432b70409e70965c891feca531ffa3dbda52a6a9349346bf1f2697372f86a887a939860e2598de59",
+        "envName": "2.7.15",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/2.7.15/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "a997cda8188233e7ec95f20851aef6715e11333f1cb7f8a8a5278039480049dbf57e655d06adf8db977cff3ef67840bb96225adf2147094b37164612fce43997",
+        "envName": "2.7.15",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/2.7.15/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.15-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.15-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+        "fileHash": "04d5199bac16efd4c95e400bc557025ade02a76e021dfa5fca4fbbc91e29f46c2608e2db9f26325bf1b8e036295e4bf467266b0e81c2a2823e35f68a20e9f2ad",
+        "envName": "2.7.15",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.6.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.5-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.6.5",
+        "fileHash": "1b382fdfe7db6c3a66d68e72e1436786bfa552447ec95334809f4a1dd82b70521a7175e7998cedc49d214ee76f34b277d388bfb85b595b471d047e09b0677a9a",
+        "envName": "3.6.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.6.5/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.5-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.6.5",
+        "fileHash": "ef345d5fcefc4a1b5a28cf345115a14efc75ef6437d3878b90fcf58dfbe76f5c33372d383e3e3f7ecd045ed3234d682a40f9f0dc99656252169ac52c80c1876e",
+        "envName": "3.6.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.6.5/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.5-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.6.5",
+        "fileHash": "b9ef41754fdfbfd18dac03c2f37772cb5bdab6d87ff0d6d5e99f2c822bb49a79d0ede95249a097f5bb791993346c08ed810bcafd96a804861b397b55b436317d",
+        "envName": "3.6.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.0",
+        "fileHash": "fa075b53d3becbbc729f75843983340a16ad1ba552048ea7f30a13371f5741b8cede0eecdb968b790a01181feae2a122a7ae9fb2784bf68518728575d9716c3c",
+        "envName": "3.8.0",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.0/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.0",
+        "fileHash": "ac77ace759c438bb069bce6b10f4a2a63b5fdf1522eda94458e8097622911cf0e346259c6d0191cfddd97db9a7b76826297d9ca56c4186dbcfdf34ff6fc7801a",
+        "envName": "3.8.0",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.0/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.0-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.0-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.0",
+        "fileHash": "4cf22583142d20a23e6c35e8272017820ab000a5f0f2e3cf27f40efe334e9f300596bc13a0301698b47cd8d6bcf26d13f271cb3b53cd6207c62293d020ac892a",
+        "envName": "3.8.0",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "8a7d75205a6b63bcb27bfd213cf18e83a7f5ced314ee44e622d6c822c49749253f7e22fe0ef073ebc827f277f4cfaff4d5632d8e94b4dbb2eb3494045297157f",
+        "envName": "3.8.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.5/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "5c9a0fadfde5199301f19c69bd6d929295db2cb23987592fa16fe4f6d85dd6154e7ea44b2fe01a7dcf53cd2f91e1fdc42364adde3fef86099d6b796035ee6e22",
+        "envName": "3.8.5",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.5/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "253b3dc7e81af12e13c8c050d7235def0b6437dcd51e4ed826052e9d3f9cd2e251af0314cac5ae51d3889ed1640e5a52ced648e82c7bb2f87f00d4be6909eb01",
+        "envName": "3.8.5",
+        "type": "Pyenv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/Users/remia/python/django_work/django_venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/python/django_work/django_venv",
+        "fileHash": "c82bae84fb430133f414c104c20f31d25d4314c8eccf8511b748dc8ae3cc3510f97d534168fba14c306724231c11c71a0efca5422907378ba4756769f0528792",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/python/django_work/django_venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/python/django_work/django_venv",
+        "fileHash": "b4c87ac513684d4470e602df0553f831d2bbcee280d27adb2e0afc96d2c7ec2a2267129edbfc2d3f8fee92f66de3607b5c8700bf0ac99eb5eaa5f8ba1744930b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/3.8.5/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+        "fileHash": "8a7d75205a6b63bcb27bfd213cf18e83a7f5ced314ee44e622d6c822c49749253f7e22fe0ef073ebc827f277f4cfaff4d5632d8e94b4dbb2eb3494045297157f",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "/Users/remia/.pyenv/versions/2.7.15/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.15 64-bit ('2.7.15': pyenv)",
+        "hash": "d62f17e692912782c1eb1aef1bb2d2ae18ab26f071dc55b6432b70409e70965c891feca531ffa3dbda52a6a9349346bf1f2697372f86a887a939860e2598de59-81a211e16583de1a6544add67be50a81"
+      },
+      "expiry": 1613097940165
+    },
+    "/Users/remia/.pyenv/versions/3.6.5/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.6.5 64-bit ('3.6.5': pyenv)",
+        "hash": "1b382fdfe7db6c3a66d68e72e1436786bfa552447ec95334809f4a1dd82b70521a7175e7998cedc49d214ee76f34b277d388bfb85b595b471d047e09b0677a9a-5869ca923ccaadfa9fd8822be24a2adf"
+      },
+      "expiry": 1613097940167
+    },
+    "/Users/remia/.pyenv/versions/3.8.0/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)",
+        "hash": "fa075b53d3becbbc729f75843983340a16ad1ba552048ea7f30a13371f5741b8cede0eecdb968b790a01181feae2a122a7ae9fb2784bf68518728575d9716c3c-a563d52395b93d3c221a42d72305bbde"
+      },
+      "expiry": 1613097940169
+    },
+    "/Users/remia/.pyenv/versions/3.8.5/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit ('3.8.5': pyenv)",
+        "hash": "8a7d75205a6b63bcb27bfd213cf18e83a7f5ced314ee44e622d6c822c49749253f7e22fe0ef073ebc827f277f4cfaff4d5632d8e94b4dbb2eb3494045297157f-70584dfb07d61a621886510929eabe17"
+      },
+      "expiry": 1613097940171
+    },
+    "/Users/remia/.pyenv/shims/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.15 64-bit",
+        "hash": "9618bcc53e46e207568b38ddd005fd722a14309ef10329af2c5dfe72ced8b5b6e22f31ff97cf965877b736370257c80780d5359dd2932de059bc269ffa273be2-24c186e0c26084991940b6d909d09f93"
+      },
+      "expiry": 1613100564904
+    },
+    "/Users/remia/.pyenv/shims/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.15 64-bit",
+        "hash": "03b1aeec56ff0c6cce2feb34cdcf2b15822cc5f82fcbb83a41ac8345f5f05e2a27081acc9f02ac1ffbb3b0a54fa151f7eb800ab9209105e21da37426fad1a8a5-b20a1dedd1b949f32662e0af7ac26c83"
+      },
+      "expiry": 1612689913847
+    },
+    "/usr/local/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "c95e95ab8f803cd72be1c0b3a7f9f907596f4940c9935a71945bdd56d888678bac06791be7147465bb455d659385ad91a78aebe0114cb60c2dd8ca724ead5c3b-3d922d430b8356210977c5bc783d7ec3"
+      },
+      "expiry": 1613100564907
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "2a8a88143036b3559fb332ed3d0ae568bba964674e02459dc0fa1513c0b32e699f748de8062a721243dc7cad2461cb8be3955fded35dff0f84d2493a33e7ca61-19a1c0c8f414705d41707d5584dc28be"
+      },
+      "expiry": 1613100564909
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.2 64-bit",
+        "hash": "7c6021c360ea4763a569810bad319c9399715f91feb8eb7d54ef483a837b0d7457c0f89f860dd361e0e59a4ff3cdf187f4c67ae7336d9b5357964e00b5b7dbdc-b296128383c423a68a0de8b5a3c70036"
+      },
+      "expiry": 1613100564911
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "c95e95ab8f803cd72be1c0b3a7f9f907596f4940c9935a71945bdd56d888678bac06791be7147465bb455d659385ad91a78aebe0114cb60c2dd8ca724ead5c3b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "/Users/remia/.pyenv/versions/2.7.15/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d62f17e692912782c1eb1aef1bb2d2ae18ab26f071dc55b6432b70409e70965c891feca531ffa3dbda52a6a9349346bf1f2697372f86a887a939860e2598de59",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/.pyenv/versions/2.7.15/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.15-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 15,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.15-final"
+          },
+          "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+          "fileHash": "d62f17e692912782c1eb1aef1bb2d2ae18ab26f071dc55b6432b70409e70965c891feca531ffa3dbda52a6a9349346bf1f2697372f86a887a939860e2598de59",
+          "envName": "2.7.15",
+          "type": "Pyenv",
+          "displayName": "Python 2.7.15 64-bit ('2.7.15': pyenv)"
+        }
+      },
+      "expiry": 1613097940198
+    },
+    "/Users/remia/.pyenv/versions/3.6.5/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1b382fdfe7db6c3a66d68e72e1436786bfa552447ec95334809f4a1dd82b70521a7175e7998cedc49d214ee76f34b277d388bfb85b595b471d047e09b0677a9a",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/.pyenv/versions/3.6.5/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.6.5-final",
+            "major": 3,
+            "minor": 6,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.6.5-final"
+          },
+          "sysPrefix": "/Users/remia/.pyenv/versions/3.6.5",
+          "fileHash": "1b382fdfe7db6c3a66d68e72e1436786bfa552447ec95334809f4a1dd82b70521a7175e7998cedc49d214ee76f34b277d388bfb85b595b471d047e09b0677a9a",
+          "envName": "3.6.5",
+          "type": "Pyenv",
+          "displayName": "Python 3.6.5 64-bit ('3.6.5': pyenv)"
+        }
+      },
+      "expiry": 1613097940203
+    },
+    "/Users/remia/.pyenv/versions/3.8.0/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fa075b53d3becbbc729f75843983340a16ad1ba552048ea7f30a13371f5741b8cede0eecdb968b790a01181feae2a122a7ae9fb2784bf68518728575d9716c3c",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/.pyenv/versions/3.8.0/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.0-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.0-final"
+          },
+          "sysPrefix": "/Users/remia/.pyenv/versions/3.8.0",
+          "fileHash": "fa075b53d3becbbc729f75843983340a16ad1ba552048ea7f30a13371f5741b8cede0eecdb968b790a01181feae2a122a7ae9fb2784bf68518728575d9716c3c",
+          "envName": "3.8.0",
+          "type": "Pyenv",
+          "displayName": "Python 3.8.0 64-bit ('3.8.0': pyenv)"
+        }
+      },
+      "expiry": 1613097940206
+    },
+    "/Users/remia/.pyenv/versions/3.8.5/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8a7d75205a6b63bcb27bfd213cf18e83a7f5ced314ee44e622d6c822c49749253f7e22fe0ef073ebc827f277f4cfaff4d5632d8e94b4dbb2eb3494045297157f",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/.pyenv/versions/3.8.5/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+          "fileHash": "8a7d75205a6b63bcb27bfd213cf18e83a7f5ced314ee44e622d6c822c49749253f7e22fe0ef073ebc827f277f4cfaff4d5632d8e94b4dbb2eb3494045297157f",
+          "envName": "3.8.5",
+          "type": "Pyenv",
+          "displayName": "Python 3.8.5 64-bit ('3.8.5': pyenv)"
+        }
+      },
+      "expiry": 1613097940209
+    },
+    "/Users/remia/.pyenv/shims/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9618bcc53e46e207568b38ddd005fd722a14309ef10329af2c5dfe72ced8b5b6e22f31ff97cf965877b736370257c80780d5359dd2932de059bc269ffa273be2",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/.pyenv/shims/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.15-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 15,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.15-final"
+          },
+          "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+          "fileHash": "9618bcc53e46e207568b38ddd005fd722a14309ef10329af2c5dfe72ced8b5b6e22f31ff97cf965877b736370257c80780d5359dd2932de059bc269ffa273be2",
+          "type": "Unknown",
+          "displayName": "Python 2.7.15 64-bit"
+        }
+      },
+      "expiry": 1613100564921
+    },
+    "/Users/remia/.pyenv/shims/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "03b1aeec56ff0c6cce2feb34cdcf2b15822cc5f82fcbb83a41ac8345f5f05e2a27081acc9f02ac1ffbb3b0a54fa151f7eb800ab9209105e21da37426fad1a8a5",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/.pyenv/shims/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.15-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 15,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.15-final"
+          },
+          "sysPrefix": "/Users/remia/.pyenv/versions/2.7.15",
+          "fileHash": "03b1aeec56ff0c6cce2feb34cdcf2b15822cc5f82fcbb83a41ac8345f5f05e2a27081acc9f02ac1ffbb3b0a54fa151f7eb800ab9209105e21da37426fad1a8a5",
+          "type": "Unknown",
+          "displayName": "Python 2.7.15 64-bit"
+        }
+      },
+      "expiry": 1612689913886
+    },
+    "/usr/local/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c95e95ab8f803cd72be1c0b3a7f9f907596f4940c9935a71945bdd56d888678bac06791be7147465bb455d659385ad91a78aebe0114cb60c2dd8ca724ead5c3b",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "c95e95ab8f803cd72be1c0b3a7f9f907596f4940c9935a71945bdd56d888678bac06791be7147465bb455d659385ad91a78aebe0114cb60c2dd8ca724ead5c3b",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1613100564929
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "2a8a88143036b3559fb332ed3d0ae568bba964674e02459dc0fa1513c0b32e699f748de8062a721243dc7cad2461cb8be3955fded35dff0f84d2493a33e7ca61",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "2a8a88143036b3559fb332ed3d0ae568bba964674e02459dc0fa1513c0b32e699f748de8062a721243dc7cad2461cb8be3955fded35dff0f84d2493a33e7ca61",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1613100564932
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "7c6021c360ea4763a569810bad319c9399715f91feb8eb7d54ef483a837b0d7457c0f89f860dd361e0e59a4ff3cdf187f4c67ae7336d9b5357964e00b5b7dbdc",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.2-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.2-final"
+          },
+          "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+          "fileHash": "7c6021c360ea4763a569810bad319c9399715f91feb8eb7d54ef483a837b0d7457c0f89f860dd361e0e59a4ff3cdf187f4c67ae7336d9b5357964e00b5b7dbdc",
+          "type": "Unknown",
+          "displayName": "Python 3.8.2 64-bit"
+        }
+      },
+      "expiry": 1613100564936
+    },
+    "ProposeLSBanner": false,
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "c95e95ab8f803cd72be1c0b3a7f9f907596f4940c9935a71945bdd56d888678bac06791be7147465bb455d659385ad91a78aebe0114cb60c2dd8ca724ead5c3b",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "/Users/remia/.pyenv/versions/nvim-python3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/nvim-python3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/nvim-python3",
+        "fileHash": "7d8dcdbb07478a7c5be627167c7823f1cf87246df1904329c462579bfdabb60f401314322082f58927c277dd5ea862352ae0e9fa3bf3ee8ffa49ee679ffb63ca"
+      },
+      "expiry": 1612709943948
+    },
+    "/Users/remia/.pyenv/versions/nvim-python3/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/nvim-python3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/nvim-python3",
+        "fileHash": "0dd89da3cb3580da528295d4dbed51e1b643927113bfde5983826004a243e982b5e6de043c14f679bc8f900f444e079e624c6360f24ee2e2d080b6077d0b3b15"
+      },
+      "expiry": 1612709943944
+    },
+    "/Users/remia/.pyenv/versions/nvim-python3/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/.pyenv/versions/nvim-python3/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/.pyenv/versions/nvim-python3",
+        "fileHash": "73f24c91709550815d379e3304b7897808575ad17867252dd9c7007279a66b607cb10a7d74f9d67273a5982b49f7242b8d620f9a3f746df1e69154454242334d"
+      },
+      "expiry": 1612709943928
+    },
+    "/Users/remia/.pyenv/shims/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "45e4464b8721f73f850016e363c8c87282625a69f9337b2beaed0e455b73a87895f8086214ae963587e1f69980f8aec7902d8e31e4433165b00a6fa03ec8b63d-3b0704d9417645d151cbf37b24576f24"
+      },
+      "expiry": 1613100564906
+    },
+    "/Users/remia/.pyenv/shims/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "45e4464b8721f73f850016e363c8c87282625a69f9337b2beaed0e455b73a87895f8086214ae963587e1f69980f8aec7902d8e31e4433165b00a6fa03ec8b63d",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/.pyenv/shims/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+          "fileHash": "45e4464b8721f73f850016e363c8c87282625a69f9337b2beaed0e455b73a87895f8086214ae963587e1f69980f8aec7902d8e31e4433165b00a6fa03ec8b63d",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1613100564925
+    },
+    "/Users/remia/nvim-python3/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/nvim-python3/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/nvim-python3",
+        "fileHash": "59554610f0b6abb22105dc00169efe48ec25769810d7bbce3eba50f2a2eb2e7bb57a29f9e49a03462af0d88c07c4feab79becdf559d478fb055f410a34452bb3"
+      },
+      "expiry": 1613100614995
+    },
+    "/Users/remia/nvim-python3/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/nvim-python3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/nvim-python3",
+        "fileHash": "40f1ff5691dbc1072d4c9ab0e67d660f2256dd5f8ff9303c47ba2ce5d75f3ee7eaad7d7666b5df6ddd2ecc5047f011f5be179ce3e8bc243b92e4a211dd0f04f0"
+      },
+      "expiry": 1613100615024
+    },
+    "/Users/remia/nvim-python3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/nvim-python3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/nvim-python3",
+        "fileHash": "a469d42b305009a5db29ddcc0869128fcc7a4848932de29759577cb0c36fa9ee5a64e05c32b05203884bc4c0100a19f8d907142f69e4669b744ef9c47da6c28f"
+      },
+      "expiry": 1613100615030
+    },
+    "/Users/remia/nvim-python3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "a469d42b305009a5db29ddcc0869128fcc7a4848932de29759577cb0c36fa9ee5a64e05c32b05203884bc4c0100a19f8d907142f69e4669b744ef9c47da6c28f-84435ccc768aafe918c64372ae849ad9"
+      },
+      "expiry": 1613102135388
+    },
+    "/Users/remia/nvim-python3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a469d42b305009a5db29ddcc0869128fcc7a4848932de29759577cb0c36fa9ee5a64e05c32b05203884bc4c0100a19f8d907142f69e4669b744ef9c47da6c28f",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/nvim-python3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/remia/nvim-python3",
+          "fileHash": "a469d42b305009a5db29ddcc0869128fcc7a4848932de29759577cb0c36fa9ee5a64e05c32b05203884bc4c0100a19f8d907142f69e4669b744ef9c47da6c28f",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1613102135412
+    },
+    "SelectedPythonPath": "/Users/remia/nvim-python3/bin/python",
+    "/Users/remia/nvim-python3/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "40f1ff5691dbc1072d4c9ab0e67d660f2256dd5f8ff9303c47ba2ce5d75f3ee7eaad7d7666b5df6ddd2ecc5047f011f5be179ce3e8bc243b92e4a211dd0f04f0-4dd10ca4693deea18b81f4f46f31f70d"
+      },
+      "expiry": 1613110422082
+    },
+    "/Users/remia/nvim-python3/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "40f1ff5691dbc1072d4c9ab0e67d660f2256dd5f8ff9303c47ba2ce5d75f3ee7eaad7d7666b5df6ddd2ecc5047f011f5be179ce3e8bc243b92e4a211dd0f04f0",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/nvim-python3/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/remia/nvim-python3",
+          "fileHash": "40f1ff5691dbc1072d4c9ab0e67d660f2256dd5f8ff9303c47ba2ce5d75f3ee7eaad7d7666b5df6ddd2ecc5047f011f5be179ce3e8bc243b92e4a211dd0f04f0",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1613110422106
+    },
+    "/Users/remia/nvim-python3/venv/django_work/django_venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/nvim-python3/venv/django_work/django_venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/nvim-python3/venv/django_work/django_venv",
+        "fileHash": "75b8f74a9c027d54080f55deae4379b008ed76cd7c7582848df5b498b522e9ab04f9f71f871d029d0be7f193bbfa8dda02f71847aaa40e2ced19149816dae1c6"
+      },
+      "expiry": 1613121155692
+    },
+    "/Users/remia/nvim-python3/venv/django_work/django_venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/nvim-python3/venv/django_work/django_venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/nvim-python3/venv/django_work/django_venv",
+        "fileHash": "cd519f74576104477d2d0e580ee6aaee6880a2732e8fd0b0ce7670bc4edab651164ac704b15505cbcfed396a1a73fe8a356a49cbc47abd85d521b6fb0e1e4254"
+      },
+      "expiry": 1613121155693
+    },
+    "/Users/remia/nvim-python3/venv/django_work/django_venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "75b8f74a9c027d54080f55deae4379b008ed76cd7c7582848df5b498b522e9ab04f9f71f871d029d0be7f193bbfa8dda02f71847aaa40e2ced19149816dae1c6-c684e695376a56d1ad6f2f5d509e5414"
+      },
+      "expiry": 1613121155867
+    },
+    "/Users/remia/nvim-python3/venv/django_work/django_venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "75b8f74a9c027d54080f55deae4379b008ed76cd7c7582848df5b498b522e9ab04f9f71f871d029d0be7f193bbfa8dda02f71847aaa40e2ced19149816dae1c6",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/nvim-python3/venv/django_work/django_venv/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/remia/nvim-python3/venv/django_work/django_venv",
+          "fileHash": "75b8f74a9c027d54080f55deae4379b008ed76cd7c7582848df5b498b522e9ab04f9f71f871d029d0be7f193bbfa8dda02f71847aaa40e2ced19149816dae1c6",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1613121155896
+    },
+    "/Users/remia/nvim-python3/venv/django_work/django_venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "cd519f74576104477d2d0e580ee6aaee6880a2732e8fd0b0ce7670bc4edab651164ac704b15505cbcfed396a1a73fe8a356a49cbc47abd85d521b6fb0e1e4254-8e6f4b9946112761319fdd991b530cf7"
+      },
+      "expiry": 1613121155974
+    },
+    "/Users/remia/nvim-python3/venv/django_work/django_venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "cd519f74576104477d2d0e580ee6aaee6880a2732e8fd0b0ce7670bc4edab651164ac704b15505cbcfed396a1a73fe8a356a49cbc47abd85d521b6fb0e1e4254",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/nvim-python3/venv/django_work/django_venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/remia/nvim-python3/venv/django_work/django_venv",
+          "fileHash": "cd519f74576104477d2d0e580ee6aaee6880a2732e8fd0b0ce7670bc4edab651164ac704b15505cbcfed396a1a73fe8a356a49cbc47abd85d521b6fb0e1e4254",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1613121155992
+    },
+    "InterpreterAutoSeletionRule-environment": {
+      "architecture": 3,
+      "path": "/Users/remia/nvim-python3/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.5-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.5-final"
+      },
+      "sysPrefix": "/Users/remia/nvim-python3",
+      "fileHash": "40f1ff5691dbc1072d4c9ab0e67d660f2256dd5f8ff9303c47ba2ce5d75f3ee7eaad7d7666b5df6ddd2ecc5047f011f5be179ce3e8bc243b92e4a211dd0f04f0",
+      "type": "VirtualEnv"
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/Users/remia/.pyenv/versions/3.8.5/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.5-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.5-final"
+      },
+      "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+      "fileHash": "8a7d75205a6b63bcb27bfd213cf18e83a7f5ced314ee44e622d6c822c49749253f7e22fe0ef073ebc827f277f4cfaff4d5632d8e94b4dbb2eb3494045297157f",
+      "type": "Unknown"
+    },
+    "/Users/remia/python/django_work/django_venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/python/django_work/django_venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/python/django_work/django_venv",
+        "fileHash": "c82bae84fb430133f414c104c20f31d25d4314c8eccf8511b748dc8ae3cc3510f97d534168fba14c306724231c11c71a0efca5422907378ba4756769f0528792"
+      },
+      "expiry": 1613130762701
+    },
+    "/Users/remia/python/django_work/django_venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/remia/python/django_work/django_venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/remia/python/django_work/django_venv",
+        "fileHash": "b4c87ac513684d4470e602df0553f831d2bbcee280d27adb2e0afc96d2c7ec2a2267129edbfc2d3f8fee92f66de3607b5c8700bf0ac99eb5eaa5f8ba1744930b"
+      },
+      "expiry": 1613130762702
+    },
+    "/Users/remia/python/django_work/django_venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "c82bae84fb430133f414c104c20f31d25d4314c8eccf8511b748dc8ae3cc3510f97d534168fba14c306724231c11c71a0efca5422907378ba4756769f0528792-c353d834d06fb7471af086a63bf3cfb0"
+      },
+      "expiry": 1613130762766
+    },
+    "/Users/remia/python/django_work/django_venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c82bae84fb430133f414c104c20f31d25d4314c8eccf8511b748dc8ae3cc3510f97d534168fba14c306724231c11c71a0efca5422907378ba4756769f0528792",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/python/django_work/django_venv/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/remia/python/django_work/django_venv",
+          "fileHash": "c82bae84fb430133f414c104c20f31d25d4314c8eccf8511b748dc8ae3cc3510f97d534168fba14c306724231c11c71a0efca5422907378ba4756769f0528792",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1613130762787
+    },
+    "/Users/remia/python/django_work/django_venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "b4c87ac513684d4470e602df0553f831d2bbcee280d27adb2e0afc96d2c7ec2a2267129edbfc2d3f8fee92f66de3607b5c8700bf0ac99eb5eaa5f8ba1744930b-b39b597272c8257881c03b83bc55304b"
+      },
+      "expiry": 1613130762828
+    },
+    "/Users/remia/python/django_work/django_venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b4c87ac513684d4470e602df0553f831d2bbcee280d27adb2e0afc96d2c7ec2a2267129edbfc2d3f8fee92f66de3607b5c8700bf0ac99eb5eaa5f8ba1744930b",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/remia/python/django_work/django_venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/remia/python/django_work/django_venv",
+          "fileHash": "b4c87ac513684d4470e602df0553f831d2bbcee280d27adb2e0afc96d2c7ec2a2267129edbfc2d3f8fee92f66de3607b5c8700bf0ac99eb5eaa5f8ba1744930b",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1613130762843
+    }
+  },
+  "coc-python|/Users/remia/.config/nvim": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:87111d71c4e1fd591a2e49424a8d02a8": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:87111d71c4e1fd591a2e49424a8d02a8": []
+  },
+  "coc-python|/Users/remia/.config/coc/extensions/node_modules/coc-python/pythonFiles": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c30361bc340463ba8093e28bc69d2c5a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c30361bc340463ba8093e28bc69d2c5a": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/.config/coc/extensions/node_modules/coc-python/pythonFiles": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/.pyenv/shims": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:5d01c2516dc38a7ecea16eb9510466e5": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:5d01c2516dc38a7ecea16eb9510466e5": [],
+    "SelectedPythonPath": "/Users/remia/.pyenv/shims/python3",
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/.pyenv/shims": {
+      "architecture": 3,
+      "path": "/Users/remia/.pyenv/shims/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.5-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.5-final"
+      },
+      "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+      "fileHash": "45e4464b8721f73f850016e363c8c87282625a69f9337b2beaed0e455b73a87895f8086214ae963587e1f69980f8aec7902d8e31e4433165b00a6fa03ec8b63d",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/.pyenv": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:5ea2e23a63af8dffeb5040455f94114f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:5ea2e23a63af8dffeb5040455f94114f": [],
+    "SelectedPythonPath": "/Users/remia/.pyenv/shims/python3",
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/.pyenv": {
+      "architecture": 3,
+      "path": "/Users/remia/.pyenv/shims/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.5-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.5-final"
+      },
+      "sysPrefix": "/Users/remia/.pyenv/versions/3.8.5",
+      "fileHash": "45e4464b8721f73f850016e363c8c87282625a69f9337b2beaed0e455b73a87895f8086214ae963587e1f69980f8aec7902d8e31e4433165b00a6fa03ec8b63d",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/workspace": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7203785bb7ec92264f2706e1f05aab8d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7203785bb7ec92264f2706e1f05aab8d": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/workspace": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/Users/remia/.pyenv/versions/3.8.5/bin/python"
+  },
+  "coc-python|/Users/remia/.pyenv/workspace": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f4c84b99047b2cae0fe4b39e0b068290": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f4c84b99047b2cae0fe4b39e0b068290": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/.pyenv/workspace": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/workspace/poc": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:15168a6c911bdcba0f6daca1748da8f6": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:15168a6c911bdcba0f6daca1748da8f6": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/workspace/poc": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/python": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:54d524b450ef294c3f36a623b2fc8e70": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:54d524b450ef294c3f36a623b2fc8e70": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/python": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/python/poc-project": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d08f99d6782037ee91f68414961d9f64": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d08f99d6782037ee91f68414961d9f64": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/python/poc-project": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/nvim-python3/venv/django_work/sample_app": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:661ee944ed908742b538db971eecca3c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:661ee944ed908742b538db971eecca3c": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/nvim-python3/venv/django_work/sample_app": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/nvim-python3/venv/django_work/sample_app/sample_app": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:387fd8672f7be472786ca7de3e75c713": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:387fd8672f7be472786ca7de3e75c713": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/nvim-python3/venv/django_work/sample_app/sample_app": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/nvim-python3/venv/django_work/helloWorld/helloWorld": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:950817083e5ce177da3f4e2eab189f16": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:950817083e5ce177da3f4e2eab189f16": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/nvim-python3/venv/django_work/helloWorld/helloWorld": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/nvim-python3/venv/poc": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:79b031f429982bcf05633af2a977051a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:79b031f429982bcf05633af2a977051a": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/nvim-python3/venv/poc": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/nvim-python3": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:24a705711372b35d11a97a5189de280c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:24a705711372b35d11a97a5189de280c": [],
+    "SelectedPythonPath": "/Users/remia/.pyenv/versions/3.8.5/bin/python",
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/nvim-python3": {
+      "architecture": 3,
+      "path": "/Users/remia/nvim-python3/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.5-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.5-final"
+      },
+      "sysPrefix": "/Users/remia/nvim-python3",
+      "fileHash": "40f1ff5691dbc1072d4c9ab0e67d660f2256dd5f8ff9303c47ba2ce5d75f3ee7eaad7d7666b5df6ddd2ecc5047f011f5be179ce3e8bc243b92e4a211dd0f04f0",
+      "type": "VirtualEnv"
+    }
+  },
+  "coc-python|/Users/remia/nvim-python3/venv": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:87c747fb8a67dec97e28516abdb835a7": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:87c747fb8a67dec97e28516abdb835a7": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/nvim-python3/venv": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/Users/remia/.pyenv/versions/3.8.5/bin/python"
+  },
+  "coc-python|/Users/remia/nvim-python3/venv/ss": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:2dbfe71acfecf0478497e371e308a1ed": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:2dbfe71acfecf0478497e371e308a1ed": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/remia/nvim-python3/venv/ss": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "72e374ab78ea174ec86bbab4125ea5cf48957b332476bd60406250ecfda0de8b1b29e899fa4239df15d8d64d8dc90ec7b9059b4a8beac700b992c4a80c167a9b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/remia/python/django_work/firstApp/firstApp": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:dedfefd39461f56c5633957da709af08": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:dedfefd39461f56c5633957da709af08": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}
