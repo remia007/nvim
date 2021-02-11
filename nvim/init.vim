@@ -16,6 +16,6 @@ source $HOME/.config/nvim/plug-config/start-screen.vim
 " git
 source $HOME/.config/nvim/plug-config/signify.vim
 " nerdtree
-" source $HOME/.config/nvim/plug-config/nerdtree.vim
+source $HOME/.config/nvim/plug-config/nerdtree.vim
 " defx
 " source $HOME/.config/nvim/plug-config/defx.vim
